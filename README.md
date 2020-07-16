@@ -1,2 +1,2 @@
 # ktunes
-Debian sysctl kernel tunes 
+Linux sysctl kernel tunes 
